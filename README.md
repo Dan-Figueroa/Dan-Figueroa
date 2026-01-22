@@ -83,3 +83,13 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dan-Figueroa&show_icons=true&theme=chartreuse-dark" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dan-Figueroa&layout=compact&theme=chartreuse-dark" />
+</p>
+
+
