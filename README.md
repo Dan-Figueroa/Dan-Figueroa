@@ -32,9 +32,7 @@
   </a>
 </p>
 
-- 👨‍💻 As an AI & Software Engineer, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Mobile Application Development.
-- 
+- 👨‍💻 Software developer student, full-stack with a stronger focus on frontend development, eager to learn new technologies and take on different challenges.
 
 ## 🛠 &nbsp;Tech Stack
 
