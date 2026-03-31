@@ -33,7 +33,7 @@
 </p>
 
 - 👨‍💻 Software developer student, full-stack with a stronger focus on frontend development, eager to learn new technologies and take on different challenges.
-- 🥇Hackaton 2025 - Reto Bimbo:Mejor solución
+- 🥇Hackaton 2025: Swift ChangeMakers - Reto BIMBO: Mejor solución
 
 ## 🛠 &nbsp;Tech Stack
 
